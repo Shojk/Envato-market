@@ -1,0 +1,416 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+.img {
+    position: relative;
+}
+
+.imga {
+    position: absolute;
+    top: 65px;
+    left: 110px;
+}
+
+.linko {
+    position: absolute;
+    top: 90px;
+    left: 280px;
+}
+
+.li {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.li:hover {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+.lin {
+    margin-left: 50px;
+    margin-right: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.lin:hover {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+.link {
+    margin-left: 10px;
+    margin-right: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+.links {
+    margin-left: 10px;
+    margin-right: 40px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.links:hover {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+.button {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    border: none;
+    padding: 10px;
+    position: absolute;
+    top: 50px;
+    right: 85px;
+    border-radius: 20px;
+    width: 115px;
+}
+
+.button:hover {
+    background-color: rgb(148, 78, 213);
+}
+
+.we {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: xxx-large;
+    position: absolute;
+    top: 315px;
+    left: 150px;
+}
+
+.highlight {
+    color: rgb(146, 43, 189);
+}
+
+.leave {
+    position: absolute;
+    top: 400px;
+    left: 150px;
+    width: 550px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: larger;
+    word-spacing: 9px;
+}
+
+.land {
+    position: absolute;
+    left: 750px;
+    top: 15px;
+}
+
+.lando {
+    position: absolute;
+    left: 975px;
+    top: 73px;
+}
+
+.cloud {
+    position: absolute;
+    left: 930px;
+    top: 545px;
+}
+
+.wave {
+    position: absolute;
+    top: 650px;
+}
+
+.second {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 50px;
+    z-index: -1;
+}
+
+.group {
+    margin-left: 280px;
+    margin-top: 126px;
+}
+
+.grou {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+
+.gro {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: larger;
+    width: 355px;
+    margin-left: -69px;
+    margin-top: -10px;
+    word-spacing: 2px;
+    text-align: center;
+}
+
+.groo {
+    margin-left: 755px;
+    margin-top: -146px;
+}
+
+.gron {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: larger;
+    width: 420px;
+    margin-left: -110px;
+    margin-top: -10px;
+    word-spacing: 2px;
+    text-align: center;
+}
+
+.gros {
+    margin-left: 1140px;
+    margin-top: 25px;
+}
+
+.grouu {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    margin-left: 45px;
+}
+
+.groa {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: larger;
+    width: 415px;
+    margin-left: -110px;
+    margin-top: -10px;
+    word-spacing: 2px;
+    text-align: center;
+}
+
+.why {
+    position: relative;
+    top: -255px;
+    left: 200px;
+}
+
+.who {
+    position: absolute;
+    top: 90px;
+    color: rgb(255, 255, 255);
+    left: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.whos {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 90px;
+    top: 105px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 450;
+    font-size: 43px;
+}
+
+.sho {
+    margin-left: 278px;
+    margin-top: -50px;
+}
+
+.shoo {
+    margin-left: 173px;
+}
+
+.sha {
+    margin-left: 135px;
+}
+
+.round {
+    margin-left: 680px;
+    margin-top: -40px;
+}
+
+.groam {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: larger;
+    width: 277px;
+    word-spacing: 5px;
+    text-align: center;
+    margin-left: 46px;
+}
+
+.arrow {
+    position: absolute;
+    top: 2100px;
+    left: 570px;
+}
+
+.arro {
+    position: absolute;
+    top: 2100px;
+    left: 1100px;
+}
+
+.class {
+    position: relative;
+}
+
+.clas {
+    position: absolute;
+    top: 150px;
+    left: 780px;
+}
+
+.is {
+    position: relative;
+    top: -200px;
+    left: 150px;
+    width: 140px;
+}
+
+.is:hover {
+    color: rgb(184, 14, 246);
+    width: 138px;
+}
+
+.isl {
+    position: absolute;
+    top: 9px;
+    left: 20px;
+}
+
+.app {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    position: absolute;
+    top: -13px;
+    left: 64px;
+}
+
+.apps {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    position: absolute;
+    top: 5px;
+    left: 64px;
+}
+
+.isls {
+    position: absolute;
+    top: 11px;
+    left: 23px;
+}
+
+.isn {
+    position: relative;
+    top: -257px;
+    left: 348px;
+    width: 140px;
+}
+
+.isn:hover {
+    color: rgb(184, 14, 246);
+    width: 138px;
+}
+
+.icon {
+    position: absolute;
+    top: 2886px;
+    left: 160px;
+}
+
+.moon {
+    margin-left: 18px;
+}
+
+.moo {
+    margin-left: 10px;
+}
+
+.linken {
+    position: absolute;
+    top: 2950px;
+    left: 156px;
+}
+
+.lio {
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.lio:hover {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+.lino {
+    margin-left: 50px;
+    margin-right: 40px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.lino:hover {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+.linkk {
+    margin-left: 10px;
+    margin-right: 40px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.linkk:hover {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+.linkso {
+    margin-left: 10px;
+    margin-right: 40px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.linkso:hover {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
